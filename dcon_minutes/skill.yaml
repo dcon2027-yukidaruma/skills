@@ -1,0 +1,5 @@
+name: "dcon_minutes"
+title: "DCON2027 議事録作成"
+description: "Drive上の会議音声をdcon2027のWhisperで文字起こしし、さくらのAI Engineでテンプレに沿って要約して、議事録と原文一式をDriveの01_議事録へ保存する。"
+category: "Work and knowledge"
+include_in_prompt: true
