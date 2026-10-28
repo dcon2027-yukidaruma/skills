@@ -1,0 +1,9 @@
+name: "email_rules"
+
+title: "メール運用ルール"
+
+description: "DCON2027チーム「ゆきだるま」の外部メール（依頼・問い合わせ）の運用ルール。送信前の文面確認、教員CC、共有フォルダへの集約と管理シートへの記録、担当者が自分で決めない事項を定める。"
+
+category: "Work and knowledge"
+
+include_in_prompt: true
