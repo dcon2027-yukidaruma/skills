@@ -1,0 +1,5 @@
+name: "chouseisan_reminder"
+title: "調整さん未回答リマインド"
+description: "調整さんの日程調整で未回答のメンバーを定期的に確認し、Discordでメンションリマインドする。全員回答か締切で自動停止する。"
+category: "Work and knowledge"
+include_in_prompt: true
